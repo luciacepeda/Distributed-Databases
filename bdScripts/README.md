@@ -15,7 +15,6 @@ _BDD Distribuidora de Vinos_
 6. Insertar Datos (desde una bd)
 7. Ejecutar consultas (en cualquiera)
 
-
 ---
 
 ## 📌  Observaciones importantes por comprobar
