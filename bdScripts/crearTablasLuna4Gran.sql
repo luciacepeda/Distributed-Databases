@@ -5,6 +5,7 @@
 -- que son los fragmentos F15, F16, F17, F18 y F19.
 -- suministra vinos a clientes de 'Canarias','Andalucía','Extremadura','Melilla','Ceuta'
 
+
 -- DROPS 
 
 DROP TABLE Empleado4 CASCADE CONSTRAINTS;
